@@ -1,0 +1,8 @@
+__pycache__
+.git
+*.pyc
+venv/
+.env
+Dockerfile*
+README.md
+schema.pdf
