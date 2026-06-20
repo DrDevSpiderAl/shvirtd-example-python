@@ -1,6 +1,5 @@
 version: '2.1'
 include:
   -  dockerfile.yaml
-  -  proxy.yaml
-services:
+
   
